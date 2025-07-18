@@ -8,5 +8,3 @@ Output: [1, 3, 12, 0, 0]
 Example 2:
 Input: nums = [0, 0, 1]  
 Output: [1, 0, 0]
-
-[1, 2, 0, 4]
